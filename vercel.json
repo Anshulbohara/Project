@@ -19,8 +19,8 @@
             "dest": "index.js"
         },
         {
-            "src": "/p",
-            "dest": "build"
+            "src": "//",
+            "dest": "index.js"
         },
         {
             "src": "/add",
